@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgnupl-scy.a CMakeFiles/gnupl-scy.dir/gnupl-scy.cpp.o
+/usr/bin/ranlib libgnupl-scy.a

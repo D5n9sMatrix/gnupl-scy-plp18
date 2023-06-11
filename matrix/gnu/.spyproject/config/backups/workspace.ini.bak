@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['../../../.config/spyder-py3/temp.py', 'matrix/bin/client/missing/py++.py', 'matrix/bin/client/manager/dialog/methods/check.plt', 'matrix/bin/client/manager/check/pop.py', 'matrix/bin/client/manager/info/check.plt', 'matrix/bin/client/manager/check/info.py', 'matrix/bin/client/manager/peace/lord/dialog.plt', 'matrix/bin/client/manager/peace/lord.py', 'matrix/bin/client/manager/dialog/methods/wave.plt', 'matrix/bin/client/manager/dialog/methods.py', 'matrix/bin/client/manager/pop.plt', 'matrix/lib/wave_manager/wave_pop.py', 'matrix/lib/wave_check/wave_info.py', 'matrix/lib/wave_peace/wave_lord.py', 'matrix/test/die_off_manager/die_off_wave_pop.py', 'matrix/test/die_off_wave_check/die_off_wave_info.py', 'matrix/test/die_off_wave_peace/die_off_wave_lord.py', 'matrix/test/die_off_wave_dialog/die_off_wave_methods.py', 'license', 'readme.md']
+
+[main]
+version = 0.2.0
+recent_files = []
+

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/Workspace/gnupl-scy/gnu/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/gnupl-scy.dir/gnupl-scy.cpp.o -c /home/denis/Workspace/gnupl-scy/gnu/gnupl-scy.cpp",
+  "file": "/home/denis/Workspace/gnupl-scy/gnu/gnupl-scy.cpp"
+}
+]
